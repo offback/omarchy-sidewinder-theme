@@ -1,0 +1,37 @@
+# Sidewinder — 1940 Ford Deluxe coupe street rod
+# candy-apple red over black
+#
+# accent #d9536a is the paint colour; the surfaces around it are the
+# same hue taken down to near-black.
+
+mode = "dark"
+accent = "#d9536a"
+
+selection = "#331316"
+muted = "#7d4f56"
+background = "#211012"
+
+dark_background = "#180b0d"
+darker_background = "#100708"
+lighter_background = "#32181b"
+foreground = "#eed0d4"
+
+dark_foreground = "#9c7c82"
+light_foreground = "#f7e0e4"
+bright_foreground = "#fdf0f2"
+red = "#e8576a"
+
+yellow = "#efc04a"
+orange = "#ff9a5c"
+green = "#66cf82"
+cyan = "#4fcfc4"
+blue = "#7aa2f7"
+magenta = "#c07ef0"
+brown = "#7d4a3c"
+bright_red = "#ff8296"
+bright_yellow = "#ffd672"
+bright_orange = "#ffb47d"
+bright_green = "#8fe2a6"
+bright_cyan = "#7fe0d6"
+bright_blue = "#9cbcff"
+bright_magenta = "#d6a4f7"
